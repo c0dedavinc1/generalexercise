@@ -4,4 +4,11 @@ A collection of general exercise in various programming language
 # Formula of py 
 Newton's formula
 
-$$ frac{$pi}{2} $$
+<script>
+MathJax = {
+  tex: {
+    inlineMath: {'[+]': [['$', '$']]}
+  }
+};
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js"></script>
